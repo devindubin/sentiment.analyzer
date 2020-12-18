@@ -1,2 +1,2 @@
 # sentiment.analyzer
-anal sent lol
+feel good. or bad i guess
